@@ -83,8 +83,12 @@ class JoaoLucas:
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SeuUsername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsername&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SeuUsername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsername&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SeuUsername&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -118,7 +122,7 @@ class JoaoLucas:
 ## 🦇 Easter Egg
 
 <div align="center">
-  <img src="https://media.giphy.com/media/NmerZ36iBkmKk/giphy.gif" width="300" height="200" alt="Batman Animation"/>
+  <img src="https://media.giphy.com/media/l41lGvinEgARjB2HC/giphy.gif" width="300" height="200" alt="Batman Animation"/>
   
   <p><i>"It's not who I am underneath, but what I do that defines me."</i></p>
   <p><strong>- Batman </strong></p>
