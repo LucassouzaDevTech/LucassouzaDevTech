@@ -121,7 +121,7 @@ class JoaoLucas:
   <img src="https://media.giphy.com/media/NmerZ36iBkmKk/giphy.gif" width="300" height="200" alt="Batman Animation"/>
   
   <p><i>"It's not who I am underneath, but what I do that defines me."</i></p>
-  <p><strong>- Batman & João Lucas</strong></p>
+  <p><strong>- Batman </strong></p>
 </div>
 
 ---
