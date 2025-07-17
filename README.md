@@ -122,7 +122,7 @@ class JoaoLucas:
 ## 🦇 Easter Egg
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l41lGvinEgARjB2HC/giphy.gif" width="300" height="200" alt="Batman Animation"/>
+  <img src="[https://media.giphy.com/media/l41lGvinEgARjB2HC/giphy.gif](https://tenor.com/cp6eM7biADl.gif)" width="300" height="200" alt="Batman Animation"/>
   
   <p><i>"It's not who I am underneath, but what I do that defines me."</i></p>
   <p><strong>- Batman </strong></p>
