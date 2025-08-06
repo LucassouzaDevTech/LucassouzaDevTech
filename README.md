@@ -13,7 +13,7 @@
 💼 **Empreendedor** - Proprietário de loja online de suplementação  
 🎯 **Objetivo:** Oportunidades de estágio em tecnologia  
 📍 **Localização:** Paraná, Brasil  
-🎂 **Idade:** 16 anos  
+🎂 **Idade:** 17 anos  
 
 ---
 
