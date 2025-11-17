@@ -105,16 +105,6 @@ class JoaoLucas:
 </div>
 
 ---
-
-## 🦇 Easter Egg
-
-<div align="center">
-  <img src="https://i.gifer.com/Vypb.gif" width="300" height="200" alt="Batman Animation"/>
-  
-  <p><i>"It's not who I am underneath, but what I do that defines me."</i></p>
-  <p><strong>- Batman & João Lucas</strong></p>
-</div>
-
 ---
 
 <div align="center">
