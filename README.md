@@ -91,7 +91,7 @@ class JoaoLucas:
 ### 🎓 Projetos Talento-Tech PR
 - **Descrição:** Projetos desenvolvidos durante o programa
 - **Tecnologias:** Python, Flutter, JavaScript
-- **Status:** Em desenvolvimento
+- **Status:** Finalizados
 
 ---
 
