@@ -8,11 +8,12 @@
 
 ## 👨‍💻 Sobre Mim
 
-🎓 **Estudante do 3º ano do Ensino Médio** (Conclusão: 2025)  
+🎓 **Ensino Médio** (Conclusão: 2025)  
+🎓 **Engenharia de Software (Unopar - Anhanguera)** (Conclusão: 2030)
 🚀 **Participante do Talento-Tech PR 2024**  
 💼 **Empreendedor** - Proprietário de loja online de suplementação  
 🎯 **Objetivo:** Oportunidades de estágio em tecnologia  
-📍 **Localização:** Paraná, Brasil  
+📍 **Localização:** São Jerônimo da Serra, Paraná, Brasil  
 🎂 **Idade:** 17 anos  
 
 ---
@@ -41,8 +42,8 @@ class JoaoLucas:
     def __init__(self):
         self.nome = "João Lucas de Souza Neves"
         self.idade = 16
-        self.posicao = "Futuro Engenheiro de Software"
-        self.educacao = "3º ano Ensino Médio"
+        self.posicao = "Engenharia de Software - Unopar"
+        self.educacao = "Ensino Médio"
         self.programa = "Talento-Tech PR 2024"
         
     def hard_skills(self):
