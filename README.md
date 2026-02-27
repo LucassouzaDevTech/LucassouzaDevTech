@@ -10,7 +10,7 @@
 
 🎓 **Ensino Médio** (Conclusão: 2025)  
 🎓 **Engenharia de Software (Unopar - Anhanguera)** (Conclusão: 2030)
-🚀 **Participante do Talento-Tech PR 2024**  
+🚀 **FORMADO no Talento-Tech PR 2024**  
 💼 **Empreendedor** - Proprietário de loja online de suplementação  
 🎯 **Objetivo:** Oportunidades de estágio em tecnologia  
 📍 **Localização:** São Jerônimo da Serra, Paraná, Brasil  
